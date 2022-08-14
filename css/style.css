@@ -17,7 +17,12 @@
 #package .card{
   background-color: #ededed;
 }
-
+#facilities .row{
+    padding-left: 5px;
+}
+#facilities .row .left{
+    padding: 0px 30px  0px 100px;
+}
 #question img {
     width: 95%;
 }
