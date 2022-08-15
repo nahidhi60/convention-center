@@ -9,9 +9,13 @@
 #moment img{
     width: 95%;
 }
+#package{
+    justify-content: center;
+    align-items: center;
+}
 #package ul li{
     list-style: none;
-    text-align: start;
+    
 }
 
 #package .card{
